@@ -13,7 +13,7 @@
 
 ### Обо мне
 - Мне интересно **Web3, кибербезопасность, OSINT, Bash, JS, Python, PHP**
-- О моей опыте можно узнать на [HeadHunter] (https://hh.ru)
+- О моей опыте можно узнать на [HeadHunter](https://hh.ru)
 - Связаться со мной можно [Telegram](https://telegram.org/) и [E-mail](mailto:fedotov.m.y@yandex.ru)
 
 <h3 align="center">Языки и инструменты</h3>
