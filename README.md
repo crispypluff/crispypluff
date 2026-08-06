@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Привет, меня зовут <a href="https://github.com/crispypluff" target="_blank">Михаил</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Я инженер технической поддержки из Санкт-Петербурга</h3>
 
-<!--
-**crispypluff/crispypluff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+<a href="headhunter-url">
+  <img src="https://img.shields.io/badge/HeadHunter-red?style=flat-square&logo=headhunter&logoColor=red" alt="HeadHunter"/>
+    </a>
+<a gref="telegram-url">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+</div>
 
-Here are some ideas to get you started:
+### Обо мне
+- Мне интересно **Web3, кибербезопасность, OSINT, Bash, JS, Python, PHP**
+- О моей опыте можно узнать на [HeadHunter] (https://hh.ru)
+- Связаться со мной можно [Telegram](https://telegram.org/) и [E-mail](mailto:fedotov.m.y@yandex.ru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Языки и инструменты</h3>
+  
