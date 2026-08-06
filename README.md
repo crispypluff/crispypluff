@@ -26,8 +26,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="confluence" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" width="50" height="50"/>&nbsp;
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crispypluff&theme=holi&animation=fade)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crispypluff&theme=holi&animation=fade)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crispypluff&theme=holi&animation=fade)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crispypluff&theme=holi&animation=fade)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crispypluff&theme=holi&animation=fade)
+### Моя статистика
+<div id="stat" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crispypluff&theme=holi&animation=fade"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crispypluff&theme=holi&animation=fade"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crispypluff&theme=holi&animation=fade"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crispypluff&theme=holi&animation=fade"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crispypluff&theme=holi&animation=fade"/>
+</div>
