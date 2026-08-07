@@ -12,8 +12,8 @@
 </div>
 
 ### Обо мне
-- Мне интересно **Web3, кибербезопасность, OSINT, Bash, JS, Python, SQL, системное администрирование**
-- Связаться со мной можно [Telegram](https://telegram.org/) и [E-mail](mailto:fedotov.m.y@yandex.ru)
+- Я изучаю **Web3, кибербезопасность, OSINT, Bash, JS, Python, SQL, системное администрирование**
+- Связаться со мной [Telegram](https://telegram.org/) и [E-mail](mailto:fedotov.m.y@yandex.ru)
 
 ### Языки и инструменты 🔨
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="50" height="50"/>&nbsp;
